@@ -1,0 +1,2 @@
+# 22131d19cceae073-dental-practice-customer-suppo
+Every dental practice professionals needs this — most just don't know it yet.  Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Dental Practice Customer Support Ticketing — fully configured and ready to use - Clean admin settings panel with i
